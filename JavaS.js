@@ -2,7 +2,7 @@ const rockBtn = document.getElementById("rock-btn");
 const paperBtn = document.getElementById("paper-btn");
 const scissorsBtn = document.getElementById("scissors-btn");
 const resultText = document.getElementById("result");
-
+// test
 function getUserChoice(choice) {
   let userChoice;
   switch (choice) {
